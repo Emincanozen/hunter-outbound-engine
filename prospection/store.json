@@ -1,0 +1,91 @@
+{
+  "leads": [
+    {
+      "id": "lead_h781901",
+      "name": "Valmont Prestige Immobilier",
+      "niche": "Immobilier haut de gamme",
+      "ville": "Lyon",
+      "category": "Agence immobilière",
+      "address": "14 Rue de la République, 69002 Lyon",
+      "phone": "+33 4 78 00 12 34",
+      "website": "https://valmont-prestige.example.com",
+      "mapsUrl": "https://maps.google.com/?q=valmont+lyon",
+      "rating": 4.9,
+      "reviewsCount": 142,
+      "emails": ["direction@valmont-prestige.example.com"],
+      "emailVerified": true,
+      "socials": ["https://linkedin.com/company/valmont-prestige"],
+      "insights": "Forte présence sur Lyon 2e et 6e. Spécialiste appartements haussmanniens et hôtels particuliers. Équipe de 12 négociateurs actifs.",
+      "status": "contacte",
+      "outreach": {
+        "subject": "Accélération du pipeline mandats exclusifs — Valmont Prestige",
+        "email": "Bonjour Marc,\n\nJ'ai remarqué l'excellente réputation de Valmont Prestige sur Lyon 2e et 6e. Avec 142 avis et une note de 4.9, votre positionnement sur les biens haut de gamme est remarquable.\n\nNous déployons pour les agences premium un moteur IA autonome qui détecte en amont les propriétaires vendeurs avant publication sur les portails.\n\nSeriez-vous ouvert à un échange de 10 minutes jeudi pour voir les résultats obtenus sur un secteur similaire ?\n\nBien cordialement,\nAlex Rivera",
+        "linkedin": "Bonjour Marc, félicitations pour la dynamique de Valmont Prestige sur Lyon. Un cas d'usage IA pour la captation de mandats exclusifs pourrait intéresser votre équipe.",
+        "generatedAt": "2026-05-11T10:14:00Z"
+      },
+      "createdAt": "2026-05-10T08:30:00Z",
+      "enrichedAt": "2026-05-10T08:35:00Z",
+      "contactedAt": "2026-05-11T10:20:00Z"
+    },
+    {
+      "id": "lead_h781902",
+      "name": "Atelier Silva Architectes",
+      "niche": "Architecture & Rénovation B2B",
+      "ville": "Bordeaux",
+      "category": "Cabinet d'architecture",
+      "address": "28 Cours de l'Intendance, 33000 Bordeaux",
+      "phone": "+33 5 56 12 34 56",
+      "website": "https://silva-architectes.example.com",
+      "mapsUrl": "https://maps.google.com/?q=silva+bordeaux",
+      "rating": 4.8,
+      "reviewsCount": 78,
+      "emails": ["contact@silva-architectes.example.com"],
+      "emailVerified": true,
+      "socials": ["https://linkedin.com/company/silva-architectes"],
+      "insights": "Projets axés rénovation tertiaire bas-carbone et boutiques de luxe en Nouvelle-Aquitaine. 3 associés et 8 collaborateurs.",
+      "status": "pret",
+      "outreach": {
+        "subject": "Partenariats rénovation tertiaire & appels d'offres privés — Atelier Silva",
+        "email": "Bonjour David,\n\nVotre récent projet d'aménagement d'espaces de travail à Bordeaux reflète une maîtrise rare des normes bas-carbone.\n\nNous aidons les cabinets d'architecture comme Atelier Silva à automatiser l'identification des foncières et promoteurs régionaux ayant des projets de rénovation prévus pour l'automne.\n\nSeriez-vous disponible pour un tour d'horizon rapide de notre approche ?\n\nBien à vous,\nAlex Rivera",
+        "linkedin": "Bonjour David, superbe portefeuille de réalisations tertiaires à Bordeaux. J'aimerais vous partager une analyse de prospection qualifiée pour vos futurs appels d'offres.",
+        "generatedAt": "2026-05-12T09:40:00Z"
+      },
+      "createdAt": "2026-05-11T14:10:00Z",
+      "enrichedAt": "2026-05-11T14:15:00Z"
+    },
+    {
+      "id": "lead_h781903",
+      "name": "NovaSphere Software",
+      "niche": "SaaS B2B & Cybersécurité",
+      "ville": "Nantes",
+      "category": "Éditeur de logiciels",
+      "address": "5 Rue de l'Île Mabon, 44200 Nantes",
+      "phone": "+33 2 40 55 66 77",
+      "website": "https://novasphere.example.com",
+      "mapsUrl": "https://maps.google.com/?q=novasphere+nantes",
+      "rating": 5.0,
+      "reviewsCount": 35,
+      "emails": ["growth@novasphere.example.com"],
+      "emailVerified": true,
+      "socials": ["https://linkedin.com/company/novasphere"],
+      "insights": "Levée de fonds Seed de 1.8M€ annoncée. Produit de conformité NIS 2 pour ETI et PME industrielles.",
+      "status": "enrichi",
+      "createdAt": "2026-05-12T08:00:00Z",
+      "enrichedAt": "2026-05-12T08:05:00Z"
+    },
+    {
+      "id": "lead_h781904",
+      "name": "Cobalt Conseil Logistique",
+      "niche": "Supply Chain & Ops",
+      "ville": "Lille",
+      "category": "Cabinet de conseil",
+      "address": "42 Boulevard de la Liberté, 59000 Lille",
+      "phone": "+33 3 20 88 99 00",
+      "website": "https://cobalt-conseil.example.com",
+      "rating": 4.7,
+      "reviewsCount": 24,
+      "status": "detecte",
+      "createdAt": "2026-05-12T08:10:00Z"
+    }
+  ]
+}
